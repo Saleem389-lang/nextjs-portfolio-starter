@@ -1,3 +1,4 @@
+// Homepage component for the portfolio site
 export default function Home() {
   return (
       <main style={{ textAlign: "center", marginTop: "4rem" }}>
