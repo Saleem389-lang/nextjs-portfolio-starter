@@ -9,3 +9,6 @@ Built by Saleem Ashraf — Web Developer specializing in Next.js and WordPress.
 2. 2. Run the dev server: `npm run dev`
    3. 3. Open http://localhost:3000
       4. 
+
+## Notes
+Actively maintained and updated as part of ongoing portfolio improvements.
